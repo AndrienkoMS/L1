@@ -1,0 +1,223 @@
+
+Param 1 - path to the syncing directory:	/home/ams/ht1/c/sync
+Param 2 - path to stored files			/home/ams/ht1/c/stored/sync
+Source files:		 1.test 2.test 4.test
+Destination files:	 5.test 6.test
+2022-11-08 19:46:35	copying		1.test	
+2022-11-08 19:46:35	copying		2.test	
+2022-11-08 19:46:35	copying		4.test	
+2022-11-08 19:46:35	deleting		5.test	
+2022-11-08 19:46:35	deleting		6.test	
+
+Param 1 - path to the syncing directory:	/home/ams/ht1/c/sync
+Param 2 - path to stored files			/home/ams/ht1/c/stored/sync1
+Source files:		 1.test 2.test 4.test
+Destination files:	 4.test 5.test
+2022-11-08 19:46:40	copying		1.test	
+2022-11-08 19:46:40	copying		2.test	
+2022-11-08 19:46:40	deleting		5.test	
+
+Param 1 - path to the syncing directory:	/home/ams/ht1/c/sync
+Param 2 - path to stored files			/home/ams/ht1/c/stored/sync2
+Source files:		 1.test 2.test 4.test
+Destination files:	 3.test 4.test
+2022-11-08 19:46:44	copying		1.test	
+2022-11-08 19:46:44	copying		2.test	
+2022-11-08 19:46:44	deleting		3.test	
+
+Param 1 - path to the syncing directory:	/home/ams/ht1/c/sync
+Param 2 - path to stored files			/home/ams/ht1/c/stored/sync3
+Source files:		 1.test 2.test 4.test
+Destination files:	 *
+2022-11-08 19:46:47	copying		1.test	
+2022-11-08 19:46:47	copying		2.test	
+2022-11-08 19:46:47	copying		4.test	
+Source files:		 1.test 2.test 4.test
+Destination files:	 1.test 2.test 4.test
+Source files:		 1.test 2.test 4.test
+Destination files:	 1.test 2.test 4.test
+Source files:		 1.test 2.test 4.test
+Destination files:	 1.test 2.test 4.test
+Source files:		 1.test 2.test 4.test
+Destination files:	 1.test 2.test 4.test
+Source files:		 1.test 2.test 4.test
+Destination files:	 1.test 2.test 4.test
+Source files:		 1.test 2.test 4.test
+Destination files:	 1.test 2.test 4.test
+Source files:		 1.test 2.test 4.test
+Destination files:	 1.test 2.test 4.test
+Source files:		 1.test 2.test 4.test
+Destination files:	 1.test 2.test 4.test
+Source files:		 1.test 2.test 4.test
+Destination files:	 1.test 2.test 4.test
+Source files:		 1.test 2.test 4.test
+Destination files:	 5.test 6.test
+2022-11-08 20:11:01	copying		1.test	
+2022-11-08 20:11:01	copying		2.test	
+2022-11-08 20:11:01	copying		4.test	
+2022-11-08 20:11:01	deleting		5.test	
+2022-11-08 20:11:01	deleting		6.test	
+Source files:		 1.test 2.test 4.test
+Source files:		 1.test 2.test 4.test
+Destination files:	 1.test 2.test 4.test
+Destination files:	 1.test 2.test 4.test
+Source files:		 1.test 2.test 4.test
+Destination files:	 1.test 2.test 4.test
+Source files:		 1.test 2.test 4.test
+Destination files:	 3.test
+Source files:		 1.test 2.test 4.test
+Destination files:	 3.test
+2022-11-08 20:14:01	copying		1.test	
+2022-11-08 20:14:01	copying		1.test	
+2022-11-08 20:14:02	copying		2.test	
+2022-11-08 20:14:02	copying		4.test	
+2022-11-08 20:14:02	deleting		3.test	
+2022-11-08 20:14:02	copying		2.test	
+2022-11-08 20:14:02	copying		4.test	
+2022-11-08 20:14:02	deleting		3.test	
+Source files:		 1.test 2.test 4.test
+Destination files:	 1.test 2.test 4.test
+Source files:		 1.test 2.test 4.test
+Destination files:	 1.test 2.test 4.test
+Source files:		 1.test 2.test 4.test
+Destination files:	 1.test 2.test 4.test
+Source files:		 1.test 2.test 4.test
+Destination files:	 1.test 2.test 4.test
+Source files:		 1.test 2.test 4.test
+Destination files:	 1.test 2.test 4.test
+2022-11-08 20:18:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:18:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:18:01	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:18:01	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:18:05	Source files:		 1.test 2.test 4.test
+2022-11-08 20:18:05	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:19:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:19:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:19:01	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:19:01	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:20:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:20:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:20:01	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:20:01	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:21:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:21:01	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:21:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:21:01	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:22:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:22:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:22:01	Destination files:	 *
+2022-11-08 20:22:01	Destination files:	 *
+2022-11-08 20:22:01	copying		1.test	
+2022-11-08 20:22:01	copying		1.test	
+2022-11-08 20:22:01	copying		2.test	
+2022-11-08 20:22:01	copying		2.test	
+2022-11-08 20:22:01	copying		4.test	
+2022-11-08 20:22:01	copying		4.test	
+2022-11-08 20:23:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:23:01	Destination files:	 3.test 5.test 6.test
+2022-11-08 20:23:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:23:01	copying		1.test	
+2022-11-08 20:23:01	Destination files:	 3.test 5.test 6.test
+2022-11-08 20:23:01	copying		1.test	
+2022-11-08 20:23:01	copying		2.test	
+2022-11-08 20:23:01	copying		2.test	
+2022-11-08 20:23:01	copying		4.test	
+2022-11-08 20:23:01	copying		4.test	
+2022-11-08 20:23:01	deleting		3.test	
+2022-11-08 20:23:01	deleting		3.test	
+2022-11-08 20:23:01	deleting		5.test	
+2022-11-08 20:23:01	deleting		5.test	
+2022-11-08 20:23:01	deleting		6.test	
+2022-11-08 20:23:01	deleting		6.test	
+2022-11-08 20:24:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:24:01	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:24:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:24:01	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:25:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:25:01	Destination files:	 3.test
+2022-11-08 20:25:01	copying		1.test	
+2022-11-08 20:25:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:25:01	copying		2.test	
+2022-11-08 20:25:01	Destination files:	 3.test
+2022-11-08 20:25:01	copying		4.test	
+2022-11-08 20:25:01	copying		1.test	
+2022-11-08 20:25:01	deleting		3.test	
+2022-11-08 20:25:01	copying		2.test	
+2022-11-08 20:25:01	copying		4.test	
+2022-11-08 20:25:01	deleting		3.test	
+2022-11-08 20:26:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:26:01	Destination files:	 1.test 2.test 3.test 4.test 5.test 6.test
+2022-11-08 20:26:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:26:01	deleting		3.test	
+2022-11-08 20:26:01	Destination files:	 1.test 2.test 3.test 4.test 5.test 6.test
+2022-11-08 20:26:01	deleting		5.test	
+2022-11-08 20:26:01	deleting		3.test	
+2022-11-08 20:26:01	deleting		6.test	
+2022-11-08 20:26:01	deleting		5.test	
+2022-11-08 20:26:01	deleting		6.test	
+2022-11-08 20:27:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:27:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:27:01	Destination files:	 5.test
+2022-11-08 20:27:01	Destination files:	 5.test
+2022-11-08 20:27:01	copying		1.test	
+2022-11-08 20:27:01	copying		1.test	
+2022-11-08 20:27:01	copying		2.test	
+2022-11-08 20:27:01	copying		2.test	
+2022-11-08 20:27:01	copying		4.test	
+2022-11-08 20:27:01	deleting		5.test	
+2022-11-08 20:27:01	copying		4.test	
+2022-11-08 20:27:01	deleting		5.test	
+2022-11-08 20:28:02	Source files:		 1.test 2.test 4.test
+2022-11-08 20:28:02	Source files:		 1.test 2.test 4.test
+2022-11-08 20:28:02	Destination files:	 6.test
+2022-11-08 20:28:02	copying		1.test	
+2022-11-08 20:28:02	Destination files:	 6.test
+2022-11-08 20:28:02	copying		2.test	
+2022-11-08 20:28:02	copying		1.test	
+2022-11-08 20:28:02	copying		4.test	
+2022-11-08 20:28:02	copying		2.test	
+2022-11-08 20:28:02	deleting		6.test	
+2022-11-08 20:28:02	copying		4.test	
+2022-11-08 20:28:02	deleting		6.test	
+2022-11-08 20:29:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:29:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:29:01	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:29:01	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:30:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:30:01	Destination files:	 5.test
+2022-11-08 20:30:01	copying		1.test	
+2022-11-08 20:30:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:30:01	Destination files:	 5.test
+2022-11-08 20:30:01	copying		1.test	
+2022-11-08 20:30:01	copying		2.test	
+2022-11-08 20:30:01	copying		2.test	
+2022-11-08 20:30:01	copying		4.test	
+2022-11-08 20:30:01	copying		4.test	
+2022-11-08 20:30:01	deleting		5.test	
+2022-11-08 20:30:01	deleting		5.test	
+2022-11-08 20:31:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:31:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:31:01	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:31:01	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:32:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:32:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:32:01	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:32:01	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:33:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:33:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:33:01	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:33:01	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:34:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:34:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:34:01	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:34:01	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:35:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:35:01	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:35:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:35:01	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:36:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:36:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:36:01	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:36:01	Destination files:	 1.test 2.test 4.test
+2022-11-08 20:37:01	Source files:		 1.test 2.test 4.test
+2022-11-08 20:37:01	Destination files:	 1.test 2.test 4.test
