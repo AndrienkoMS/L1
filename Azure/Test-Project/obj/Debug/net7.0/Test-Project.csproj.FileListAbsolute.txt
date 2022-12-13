@@ -1,0 +1,15 @@
+C:\Users\nasty\Desktop\L1\Ready_tasks_git\L1\Azure\Test-Project\bin\Debug\net7.0\Test-Project.exe
+C:\Users\nasty\Desktop\L1\Ready_tasks_git\L1\Azure\Test-Project\bin\Debug\net7.0\Test-Project.deps.json
+C:\Users\nasty\Desktop\L1\Ready_tasks_git\L1\Azure\Test-Project\bin\Debug\net7.0\Test-Project.runtimeconfig.json
+C:\Users\nasty\Desktop\L1\Ready_tasks_git\L1\Azure\Test-Project\bin\Debug\net7.0\Test-Project.dll
+C:\Users\nasty\Desktop\L1\Ready_tasks_git\L1\Azure\Test-Project\bin\Debug\net7.0\Test-Project.pdb
+C:\Users\nasty\Desktop\L1\Ready_tasks_git\L1\Azure\Test-Project\obj\Debug\net7.0\Test-Project.csproj.AssemblyReference.cache
+C:\Users\nasty\Desktop\L1\Ready_tasks_git\L1\Azure\Test-Project\obj\Debug\net7.0\Test-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasty\Desktop\L1\Ready_tasks_git\L1\Azure\Test-Project\obj\Debug\net7.0\Test-Project.AssemblyInfoInputs.cache
+C:\Users\nasty\Desktop\L1\Ready_tasks_git\L1\Azure\Test-Project\obj\Debug\net7.0\Test-Project.AssemblyInfo.cs
+C:\Users\nasty\Desktop\L1\Ready_tasks_git\L1\Azure\Test-Project\obj\Debug\net7.0\Test-Project.csproj.CoreCompileInputs.cache
+C:\Users\nasty\Desktop\L1\Ready_tasks_git\L1\Azure\Test-Project\obj\Debug\net7.0\Test-Project.dll
+C:\Users\nasty\Desktop\L1\Ready_tasks_git\L1\Azure\Test-Project\obj\Debug\net7.0\refint\Test-Project.dll
+C:\Users\nasty\Desktop\L1\Ready_tasks_git\L1\Azure\Test-Project\obj\Debug\net7.0\Test-Project.pdb
+C:\Users\nasty\Desktop\L1\Ready_tasks_git\L1\Azure\Test-Project\obj\Debug\net7.0\Test-Project.genruntimeconfig.cache
+C:\Users\nasty\Desktop\L1\Ready_tasks_git\L1\Azure\Test-Project\obj\Debug\net7.0\ref\Test-Project.dll

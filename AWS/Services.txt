@@ -1,0 +1,3 @@
+Amazon ECS, AWS Fargate, Elastic Load Balancing
+Amazon CloudWatch
+AWS Lambda
