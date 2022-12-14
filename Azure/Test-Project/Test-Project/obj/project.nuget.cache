@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kO0tmpSyWdzdtG1CmHe/WYZuYOWUypcWvG0QTrsm7twPMchHMTBIGckfpLvyNUluwU7Blq7rL/AcfsH4WoeeKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nasty\\Desktop\\L1\\Ready_tasks_git\\L1\\Azure\\Test-Project\\Test-Project\\Test-Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nasty\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
