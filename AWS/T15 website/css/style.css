@@ -3,3 +3,10 @@ body {
   margin: 0;
   text-align: center;
 }
+
+.container-services {
+  text-align: left;
+  margin: auto;
+  padding: 0 15px;
+  width: 900px;
+}
